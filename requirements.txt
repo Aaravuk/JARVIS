@@ -1,0 +1,14 @@
+eel
+opencv-python
+pyautogui
+numpy
+Pillow
+pyttsx3
+SpeechRecognition
+hugchat
+pvporcupine
+pywhatkit
+pygame
+requests
+psutil
+pywin32
